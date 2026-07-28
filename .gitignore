@@ -7,4 +7,3 @@ target
 Cargo.lock
 .*.rustfmt
 rusty-tags.*
-.DS_Store
